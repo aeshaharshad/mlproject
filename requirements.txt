@@ -1,0 +1,5 @@
+# Python dependencies- all packages that will be installed for project for the End-to-End Machine Learning Project
+pandas
+numpy
+seaborn
+-e .
